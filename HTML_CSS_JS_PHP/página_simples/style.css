@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(163, 174, 0);
+    background-color: rgb(255, 255, 255);
     font-family: fantasy;
     font-size: 25px;
 
@@ -40,7 +40,7 @@ input, textarea {
     box-sizing: border-box;
 
     /* Para harmonizar o look & feel das bordas nos campos de texto*/
-    border: 1px solid #999;
+    border: 2px solid #999;
 }
 
 input:focus, textarea:focus {
