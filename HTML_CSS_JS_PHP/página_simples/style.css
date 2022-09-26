@@ -14,8 +14,8 @@ form {
     margin: 0 auto;
     width: 400px;
     /* Para ver as bordas do formulário */
-    padding: 1em;
-    border: 1px solid #CCC;
+    padding: 2em;
+    border: 3px solid #CCC;
     border-radius: 1em;
 }
 
